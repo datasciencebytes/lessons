@@ -1,2 +1,3 @@
-# Ignore all txt files
+# Ignore files
 *.txt
+*.dat
